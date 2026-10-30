@@ -1,0 +1,15 @@
+{
+  "version": "0.1.3",
+  "notes": "ข้อมูลทันตแพทย์จริง และเลขที่ใบอนุญาต",
+  "pub_date": "2026-10-30T20:57:06.761Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2xpSVpkenNvcnR6ZU5sRHBqditCblFqY2VsNWlNcS81SWlBSk9uZ1JYWTVPeDBHL2QrdmlmUTlkak9IQy91OXZUMGw3SmFKZTh1OHJ4VFdDRVNjdWVCNlFhYTdPMkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkzODIyCWZpbGU6RGVudGEgS2lkcyBTdGFmZl8wLjEuM194NjQtc2V0dXAuZXhlCmVLampIcUxIRlFRNzlaMzYwZVZTSU5Ia0QrbTdLeTNkdklHTW5BQUdqOXE4NEFjZlYxaHJidlR0TjRSajJKeUNKNEZ5Q0E5VHB3L3piTzVMK0doU0JRPT0K",
+      "url": "https://github.com/CHAYUT-P/DentaKids-releases/releases/download/staff-windows-3/Denta.Kids.Staff_0.1.3_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2xpSVpkenNvcnR6ZU5sRHBqditCblFqY2VsNWlNcS81SWlBSk9uZ1JYWTVPeDBHL2QrdmlmUTlkak9IQy91OXZUMGw3SmFKZTh1OHJ4VFdDRVNjdWVCNlFhYTdPMkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkzODIyCWZpbGU6RGVudGEgS2lkcyBTdGFmZl8wLjEuM194NjQtc2V0dXAuZXhlCmVLampIcUxIRlFRNzlaMzYwZVZTSU5Ia0QrbTdLeTNkdklHTW5BQUdqOXE4NEFjZlYxaHJidlR0TjRSajJKeUNKNEZ5Q0E5VHB3L3piTzVMK0doU0JRPT0K",
+      "url": "https://github.com/CHAYUT-P/DentaKids-releases/releases/download/staff-windows-3/Denta.Kids.Staff_0.1.3_x64-setup.exe"
+    }
+  }
+}
